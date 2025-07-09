@@ -231,3 +231,7 @@ hr {
     height: 1.2rem;
   }
 }
+a {
+  text-decoration: none;
+  color: inherit;
+}
